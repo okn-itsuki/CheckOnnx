@@ -1,3 +1,5 @@
+onnx model の tensor の型をローカルで簡単に調べるために作りました。
+
 ## 1. 前提条件
 ```
 - OS: Windows / Linux / macOS
